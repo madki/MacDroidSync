@@ -1,0 +1,2 @@
+comp /Users/madki/Copy/Music
+mobile sdcard/Music
